@@ -5,9 +5,13 @@
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/Manmehehe)
+## 🌐 Socials
 
-## 💻 Tech Stack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/manmeet-singh-350922237/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Manmehehe)
+
+
+## 💻 Tech Skills
 
 ![C](https://img.shields.io/badge/c-blue?logo=c)
 ![C++](https://img.shields.io/badge/c++-blue?logo=c%2B%2B)
